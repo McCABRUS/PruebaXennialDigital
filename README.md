@@ -6,7 +6,7 @@
 
 The project allows to load a tutorial made with images before starting the actual game. The number of images loaded are unlimited, for run propertly the following rules must be done:
 
-  - All the images should be saved in the folder Content/pagesImg.
+  - All the images should be saved in the folder Content/pagesImg. (Build or Project view).
   - The images name must be ONLY the number of the page.
   - The image format must be jpg (lowcase).
   - All files that not follow the previous steps will be ignored.
