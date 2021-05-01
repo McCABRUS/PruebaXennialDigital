@@ -4,7 +4,7 @@
 
 ### Dynamic Tutorial pages
 
-The project allows to load a tutorial images before starting the actual game. The number of images loaded are unlimited, for run propertly the following rules must be done:
+The project allows to load a tutorial made with images before starting the actual game. The number of images loaded are unlimited, for run propertly the following rules must be done:
 
   - All the images should be saved in the folder Content/pagesImg.
   - The images name must be ONLY the number of the page.
